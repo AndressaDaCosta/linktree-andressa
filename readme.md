@@ -9,7 +9,7 @@
 <img src="img/readme-darkmode.png" alt="imagem do botão modo escuro">
 <img src="img/readme-lightmode.png" alt="imagem do botão modo claro">
 
-Link:
+🌎 Página: https://andressadacosta.github.io/linktree-andressa/
 
 ---
 
@@ -23,4 +23,4 @@ Link:
 <p>To implement dark mode through JavaScript I used the Toggle Class feature which basically adds the class you want through DOM manipulation.</p>
 <img src="img/readme-darkmode.png" alt="imagem do botão modo escuro">
 <img src="img/readme-lightmode.png" alt="imagem do botão modo claro">
-Link:
+🌎 Website: https://andressadacosta.github.io/linktree-andressa/
